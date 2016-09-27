@@ -42,7 +42,7 @@ A instalação inicial pode ser feita de duas formas, sendo:
 
 * Clone esse repositório para sua máquina:
 
-- git clone https://github.com/EzequielPG/sati2016.git ( Execute o comando no seu Prompt/Terminal )
+- git clone git@github.com:EzequielPG/vagrant-setup-sati.git ( Execute o comando no seu Prompt/Terminal )
 
 * Ainda no Prompt de comando/Terminal Entre no diretório vagrant-setup-php  ( Ou o que você definir na hora da clonagem )
 
@@ -51,7 +51,9 @@ A instalação inicial pode ser feita de duas formas, sendo:
 - vagrant up
 
 
-2º -> Caso não tenha o Git instalado em sua máquina, acesse https://github.com/EzequielPG/sati2016 baixe o arquivo do projeto no formato .zip e descompacte-o onde desejar.
+2º -> Caso não tenha o Git instalado em sua máquina, acesse https://github.com/EzequielPG/vagrant-setup-sati baixe o arquivo do projeto no formato .zip e descompacte-o onde desejar.
+
+* crie uma pasta www 
 
 * Abra seu Prompt/Terminal , acesse o diretorio que acabou de descompactar e rode o comando:
 
